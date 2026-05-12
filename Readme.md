@@ -56,7 +56,5 @@ Col: 400
 - Works best on images where important content is not uniform across the whole image.
 
 ## References
-
-- [Seam Carving Paper by Avidan and Shamir](https://doi.org/10.1145/1275808.1276390)
 - OpenCV Documentation: [https://docs.opencv.org](https://docs.opencv.org)
 
